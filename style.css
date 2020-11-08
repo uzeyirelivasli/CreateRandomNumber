@@ -1,0 +1,16 @@
+body {
+    background-image: url("Math.jpg");
+    background-repeat: no-repeat;
+}
+
+.carrier,
+.btn-div {
+    display: flex;
+    justify-content: center;
+
+}
+
+#random-text {
+    color: lawngreen;
+    font-size: 1.4rem;
+}
